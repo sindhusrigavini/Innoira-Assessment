@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 // starters
 import springRolls from "../assets/crispyspringrolls.jpeg";
 import paneerTikka from "../assets/paneertikka.jpeg";
-import stuffedMushrooms from "../assets/stuffedmushroms.jpeg";
+import stuffedMushrooms from "../assets/stuffedmushroms.jpg";
 
 // soups
 import hotAndSoup from "../assets/hotandsoup.jpeg";
@@ -739,3 +739,4 @@ function MenuBox({ title, items, setSelectedItem, setQuantity }) {
 }
 
 export default MenuCard;
+
